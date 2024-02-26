@@ -18,5 +18,5 @@ go run mutex/main.go
 
 ### References
 
-- <a hred="https://www.youtube.com/watch?v=egd4WHJMwC0">Cap. 18 – Concorrência – 5. Mutex</a>
-- <a hred="https://www.youtube.com/watch?v=iFlQ2yAYcp4">Cap. 18 – Concorrência – 6. Atomic</a>
+- <a href="https://www.youtube.com/watch?v=egd4WHJMwC0">Cap. 18 – Concorrência – 5. Mutex</a>
+- <a href="https://www.youtube.com/watch?v=iFlQ2yAYcp4">Cap. 18 – Concorrência – 6. Atomic</a>
